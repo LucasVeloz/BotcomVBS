@@ -7,11 +7,11 @@ x=0
 Do While (x < 420)
 wscript.sleep 5000
 funcao.SendKeys""
-funcao.SendKeys "@kairofilipe"
+  funcao.SendKeys "mensagem"
 wscript.sleep 2000
 funcao.SendKeys "{ENTER}"
 funcao.SendKeys "{ENTER}"
-funcao.SendKeys "@nandafefe"
+  funcao.SendKeys "mensagem"
 wscript.sleep 2000
 funcao.SendKeys "{ENTER}"
 funcao.SendKeys "{ENTER}"
